@@ -3,3 +3,25 @@ body {
   height: 100%;
   margin: 0;
 }
+
+html {
+  text-align: center
+}
+
+header {
+  color: red;
+  /* text-align: center; */
+}
+
+nav a {
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: yellow;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
