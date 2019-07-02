@@ -3,3 +3,36 @@ body {
   height: 100%;
   margin: 0;
 }
+
+header, img, nav, text, figcaption {
+  margin: auto;
+}
+
+nav a {
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: red;
+}
+
+figcaption {
+  font-size: 8px;
+}
+
+#featured-property p {
+  margin: auto;
+  width: 800px;
+}
+
+#details {
+  display: block;
+}
+
+#details div {
+  float: left;
+}
+
+#details ~ div {
+  background-color: blue;
+  margin: auto;
+  width: 25%;
+}
