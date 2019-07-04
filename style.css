@@ -3,3 +3,29 @@ body {
   height: 100%;
   margin: 0;
 }
+
+header * {
+  text-align: center;
+}
+
+main figure{
+  text-align: center;
+}
+
+main p {
+  margin: auto;
+ text-align: center; 
+ width: 600px;
+}
+
+footer *{ 
+  background-color: red;
+}
+
+footer div {
+ text-align: center;
+ display: inline-block;
+ padding-left: 100px;
+ padding-right: 200px;
+
+}
