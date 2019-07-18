@@ -3,3 +3,39 @@ body {
   height: 100%;
   margin: 0;
 }
+h1 {
+  color: red;
+}
+header {
+  text-align: center;
+}
+figure {
+  text-align: center;
+}
+
+ nav a {
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: yellow;
+}
+
+ figcaption {
+  font-size: 10px;
+  text-align: center;
+}
+
+ #featured-property p {
+  text-align: center;
+  width: 800px;
+  position: relative;
+}
+
+ #details {
+  display: block;
+  text-align: center;
+  width: 25%;
+}
+
+ #details div {
+  float: left;
+}
