@@ -1,5 +1,33 @@
 body {
-  width: 100%;
-  height: 100%;
   margin: 0;
+  text-align: center;
+}
+
+a {
+  padding: 0 10px;
+}
+
+nav a {
+  background: #C0C0C0; /* grey */
+}
+
+figcaption {
+  font-size: 0.8em;
+}
+
+#featured-property p {
+  margin: auto;
+  width: 800px;
+  padding: 0 0 1em 0;
+}
+
+footer {
+  background-color: red;
+  margin: 0.5em 0;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr; /* fraction */
+}
+
+#footer > div {
+  padding: 1em 0;
 }
