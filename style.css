@@ -3,3 +3,35 @@ body {
   height: 100%;
   margin: 0;
 }
+#featured-property > p {
+  /*color: blue;*/
+  text-align: center;
+  /*width: 800px*/
+}
+h1 {
+  color: red;
+  text-align: center;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+nav > a {
+  /*display: block; /* Make the links appear below each other instead of side-by-side */
+  /*display: block;*/
+  float: none;
+    /*position:absolute;*/
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+text-align: center; /* Center-align text */
+padding: 16px; /* Add some padding */
+transition: all 0.3s ease; /* Add transition for hover effects */
+color: black; /* White text color */
+font-size: 16px; /* Increased font-size */
+}
+
+h3 + a{
+  color: red;
+}
