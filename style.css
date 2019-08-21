@@ -3,3 +3,43 @@ body {
   height: 100%;
   margin: 0;
 }
+header {
+  text-align: center;
+}
+figure {
+  text-align: center;
+}
+nav > a {
+  padding: 10px;
+  background: lightgray;
+  border-radius: 5px;
+}
+h1 {
+  color: #666;
+  text-decoration: underline;
+}
+img {
+  border-radius: 10px;
+}
+figcaption {
+  text-align: center;
+  font-size: 12px;
+}
+p > a {
+  text-align: center;
+  color: #666;
+}
+section > p {
+  width: 800px;
+  margin: auto;
+  text-align: center;
+  margin-bottom: 1rem;
+}
+#details {
+  display: block;
+}
+#details > div {
+  float: left;
+  background: lightgray;
+  width: 25%;
+}
