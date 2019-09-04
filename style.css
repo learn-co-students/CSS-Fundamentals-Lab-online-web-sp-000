@@ -3,3 +3,26 @@ body {
   height: 100%;
   margin: 0;
 }
+
+* {
+  text-align: center;
+}
+nav a {
+  padding-right: 10px;
+  padding-left: 10px;
+  background-color: antiquewhite
+}
+#featured-property p {
+  width: 800px;
+  margin: auto;
+}
+/*-- #details {
+  display: flex;
+  justify-content: space-between;
+  margin: 5%; 
+} */
+#details {
+  display: flex;
+  justify-content: space-evenly;
+  background-color: rgba(250, 4, 4, .8)
+}
