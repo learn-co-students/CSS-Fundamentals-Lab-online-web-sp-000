@@ -3,3 +3,23 @@ body {
   height: 100%;
   margin: 0;
 }
+
+header, figure {
+  text-align: center;
+}
+
+
+nav > a {
+  padding-right: 10px;
+  padding-left: 10px;
+  background-color: grey
+}
+
+figcaption {
+  font-size: 80%
+}
+
+#featured-property > p{
+  text-align: center;
+  width: 800px
+}
