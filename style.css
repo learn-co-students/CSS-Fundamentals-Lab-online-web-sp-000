@@ -16,7 +16,7 @@ header, #featured-property, #details {
 }
 
 #details>div {
-
-  float: left;
   background-color: red;
+  float: left;
+  width: 25%
 }
