@@ -1,3 +1,39 @@
+h1, nav, figure {
+  text-align: center;
+}
+
+nav a {
+  list-style-type: none;
+  margin: 0;
+  padding-left: 10px;
+  padding-right: 10px;
+  width: 0;
+  background-color: lightgrey;
+}
+
+figcaption {
+  font-size: medium;
+}
+
+#featured-property p {
+  text-align: center;
+  padding-left: 400px;
+  padding-right: 400px;
+
+
+}
+
+#details div {
+  display: inline-block;
+  float: left;
+}
+
+div {
+  text-align: center;
+  width: 25%;
+  background-color: red
+}
+
 body {
   width: 100%;
   height: 100%;
