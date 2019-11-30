@@ -21,7 +21,6 @@ should be written in `style.css`.
 
 
 ## Import our CSS
-
 As usual, we need to make sure our HTML is loading our stylesheet.
 
 We have two options:
