@@ -3,3 +3,36 @@ body {
   height: 100%;
   margin: 0;
 }
+
+h1{
+  text-align: center;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+}
+
+nav,
+figcaption {
+  text-align: center;
+}
+
+nav a {
+  padding: 0 10px; /*10px on their left and right sides.*/
+  background-color: rgb(214, 197, 197);
+  margin: 0 auto;
+}
+
+#featured-property p {
+  width: 800px;
+  text-align: center;
+  margin: 0 auto;
+}
+
+#details div{
+  float: left; /*Make our #details section horizontal, instead of a vertical list*/
+  background-color: rgba(248, 8, 8, 0.575);
+  width: 25%;
+  text-align: center;
+}
