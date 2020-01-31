@@ -3,3 +3,27 @@ body {
   height: 100%;
   margin: 0;
 }
+
+header {
+  text-align: center;
+}
+
+section#featured-property p {
+  width: 800px;
+  text-align: center;
+  margin: auto;
+}
+
+section#featured-property figure {
+  text-align: center;
+  font-size: 12px;
+}
+
+header a {
+  padding: 10px;
+  background-color: rgb(120, 200, 0);
+}
+
+header a:hover {
+  background-color: white;
+}
