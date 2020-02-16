@@ -3,3 +3,26 @@ body {
   height: 100%;
   margin: 0;
 }
+header, #featured-property {
+  text-align: center;
+}
+
+header a {
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: lightgrey;
+}
+
+#featured-property p {
+  width: 800px;
+  text-align: center;
+  margin: auto;
+}
+
+#details div {
+  display: block;
+  float: left;
+  width: 25%;
+  background-color: pink;
+  text-align: center;
+}
