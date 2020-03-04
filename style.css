@@ -34,14 +34,12 @@ figcaption {
   margin-right :auto;
 }
 
-footer {
-  text-align :center;
-  width :100%;
-}
-
 #details div{
   display :block;
   float :left;
+  background-color: red;
+  text-align: center;
+  width: 25%;
 }
 
 
