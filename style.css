@@ -1,5 +1,43 @@
+/* Element Selectors */
 body {
   width: 100%;
   height: 100%;
   margin: 0;
+}
+
+header {
+  text-align: center;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+nav > a {
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: grey;
+}
+
+figcaption {
+  text-align: center;
+  font-size: 50%;
+}
+
+#featured-property > p {
+  width: 800px;
+  text-align: center;
+  margin: 20px auto;
+}
+
+#details {
+  display: block;
+}
+#details > div {
+  float: left;
+  width: 25%;
+  text-align: center;
+  background-color: red;
 }
