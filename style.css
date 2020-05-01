@@ -3,3 +3,11 @@ body {
   height: 100%;
   margin: 0;
 }
+header {text-align: center; }
+nav {text-align: center; }
+nav > a {padding: 10px; background-color: grey}
+#featured-property {text-align: center; }
+figcaption {text-size-adjust: .5;}
+section[id="featured-property"] > p {width: 800px; margin-left: auto; margin-right: auto;}
+footer {text-align: center;}
+#details > div {display: inline-block; float: left; width: 25%; background-color: red;}
