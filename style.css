@@ -4,7 +4,7 @@ body {
   margin: 0;
 }
 
-header {
+h1 {
   text-align: center;
 }
 
@@ -13,30 +13,28 @@ figure.center {
   margin: 0 auto;
 }
 
-nav > a {
+nav a {
   text-align: center;
   padding-right: 10px;
   padding-left: 10px;
   background-color: grey;
+  margin: 0 auto;
 }
 
-figcaption {
+nav, figcaption {
   font-size-adjust: 0.58;
   text-align: center;
 }
 
-p #featured-property{
+#featured-property p{
   width: 800px;
   text-align: center;
+  margin: 0 auto;
 }
 
-section #details > div{
-  display: block;
-  text-align: left;
-}
-
-section #details > div {
-  background-color: coral
+#details div {
+  float: left;
+  background-color: red;
+  width: 25%;
   text-align: center;
-  width: 0.25;
 }
