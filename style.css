@@ -3,3 +3,41 @@ body {
   height: 100%;
   margin: 0;
 }
+
+header {
+  text-align: center;
+}
+
+section#featured-property {
+  text-align: center;
+}
+
+header a {
+  padding: 10px;
+  background-color: aquamarine;
+}
+
+section figcaption {
+  font-size: small;
+}
+
+section#featured-property p  {
+  width: 800px;
+}
+
+section#details {
+  display: block;
+}
+
+section#details div {
+  float: left;
+  background-color: crimson;
+  text-align: center;
+  width: 25%;
+}
+
+
+
+
+
+
