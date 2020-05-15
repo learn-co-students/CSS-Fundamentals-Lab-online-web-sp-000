@@ -19,11 +19,18 @@ figure > figcaption {
   font-size: smaller;
 }
 
-section#featured-property > p {
+section#featured-property p {
   width: 800px;
   text-align: end;
+  margin: 0 auto;
 }
 
+#details div{
+  float: left;
+  background-color: red;
+  width: 25%;
+  text-align: center;
+}
 
 
 
