@@ -1,3 +1,40 @@
+header {
+  text-align: center;
+}
+
+nav a {
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: #DEDCCB;
+}
+
+img[title="Welcome to Exceptional Realty Group"] {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+figcaption {
+  text-align: center;
+  font-size: 80%;
+  padding-top: 10px;
+}
+
+section#featured-property p {
+  display: block;
+  margin: 0 auto;
+  width: 900px;
+  text-align: center;
+}
+
+section#details div {
+  display: block; 
+  float: left; 
+  width: 25%;
+  text-align: center;
+  background-color: #ECEADE;
+}
+
 body {
   width: 100%;
   height: 100%;
