@@ -3,3 +3,26 @@ body {
   height: 100%;
   margin: 0;
 }
+
+#feature-property p{
+width: 800px;
+text-align: center;
+}
+
+section figure img{
+display: block;
+    margin: 0 auto;
+}
+
+figcaption{
+  font-size: 12px;
+}
+
+header {
+text-align: center;  
+}
+
+header nav a{
+  padding: 10px;
+  background-color: gray;
+}
