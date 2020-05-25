@@ -3,3 +3,19 @@ body {
   height: 100%;
   margin: 0;
 }
+
+
+header {
+  text-align: center;
+}
+
+section figure img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+} 
+
+nav a {
+  position: absolute;
+  padding: 10px;
+}
