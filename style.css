@@ -3,3 +3,42 @@ body {
   height: 100%;
   margin: 0;
 }
+
+h1 {
+  text-align: center;
+} /*centers header*/
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}  /*centers image*/
+
+nav {
+  text-align: center;
+} /*centers navigation*/
+
+nav a {
+  padding: 10px;
+  background: #ffffff; 
+} /*adds padding to all navigational links, changes background color to white*/
+
+figcaption {
+  text-align: center;
+} /*centers image caption*/
+
+#featured-property p {
+  width: 800px;
+  margin-left: auto;
+  margin-right: auto
+} /*centers all text within the section id'd featured-property */
+
+footer {
+  text-align: center;
+  width: 100%
+}
+
+#details > div {
+  display: block;
+  float: left;
+}
