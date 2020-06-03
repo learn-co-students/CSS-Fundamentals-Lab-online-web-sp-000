@@ -3,3 +3,23 @@ body {
   height: 100%;
   margin: 0;
 }
+
+h1 {
+  text-align: center;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+a {
+  margin-left: 10px;
+  margin-right: 10px;
+  background-color: lightsteelblue;
+}
+
+nav {
+  text-align: center;
+}
