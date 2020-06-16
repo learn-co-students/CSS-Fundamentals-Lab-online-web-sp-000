@@ -1,8 +1,9 @@
-h1, nav, p, figcaption {
+h1, nav, #featured-property, figcaption {
   text-align: center;
   align-items: center;
   justify-content: center;
 }
+
 
 .center {
   display: block;
@@ -17,6 +18,10 @@ body {
   width: 100%;
   height: 100%;
   margin: 0;
+}
+
+h3, #details {
+  display: inline-block !important;
 }
 
 
