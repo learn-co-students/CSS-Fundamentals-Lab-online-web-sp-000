@@ -3,3 +3,11 @@ body {
   height: 100%;
   margin: 0;
 }
+
+header, section#featured-property {
+  text-align: center;
+}
+
+figcaption {
+  font-size: 5px;
+}
