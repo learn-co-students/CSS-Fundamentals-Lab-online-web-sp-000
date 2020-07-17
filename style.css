@@ -3,3 +3,41 @@ body {
   height: 100%;
   margin: 0;
 }
+
+h1 {
+   text-align: center
+}
+
+nav {
+   text-align: center
+}
+
+section{
+
+   text-align: center;
+
+
+}
+#featured-property{
+  width: 90%;
+  margin: 0 auto;
+}
+
+p {
+   width: 90%;
+   text-align: center;
+   margin: 0 auto;
+
+}
+
+#details{
+  height: 150px;
+   width:  100%;
+   background-color: red;
+
+}
+
+#details > div{
+  width: 25%;
+  float: left;
+}
