@@ -7,7 +7,9 @@ h1,
 h1 {
   text-align: center;
 }
-
+nav {
+  text-align: center;
+}
 nav a {
   text-align: center;
   padding-left: 10px;
@@ -26,14 +28,19 @@ figcaption {
   text-align: center;
   font-size: 13px;
 }
+figure {
+  text-align: center;
+}
 
 figure p {
   text-align: center;
   display: block;
   width: 800px;
 }
-
-section div {
+#details {
+  display: block;
+}
+#details div {
   text-align: center;
   width: 25%;
   margin: 0 auto;
