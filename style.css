@@ -49,8 +49,6 @@ figure figcaption {
   background-color: red;
   display: block;
   width: 25%;
-  /*margin-left: auto;*/
-  /*margin-right: auto;*/
   float: left;
   
 }
