@@ -3,3 +3,22 @@ body {
   height: 100%;
   margin: 0;
 }
+h1 {
+  text-align: center;
+}
+figure {
+  align-content: center;
+}
+
+nav a {
+  padding: 10px;
+  background-color: purple;
+}
+
+figcaption {
+  font-size: 6;
+}
+
+p {
+  display: inline-block
+}
