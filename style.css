@@ -8,12 +8,9 @@ h1 {
   text-align: center;
 }
 
-figure {
+img {
   display: block;
-  /* margin-left: auto;
-  margin-right:auto; */
-  text-align: center;
-  width: 50%;
+  margin: 0 auto;
 }
 
 figcaption {
@@ -26,18 +23,20 @@ nav {
   padding-right: 10px;
   background-color: grey;
   text-align: center;
+  margin: 0 auto;
 }
 
-section > p {
+#featured-property p {
   text-align: center;
   width: 800px;
+  margin: 0 auto;
 }
 
-div {
-  display: inline-block;
+#details div {
+  float: left;
   background-color: red;
   text-align: center;
-  width: 24%;
+  width: 25%;
 }
 
 
