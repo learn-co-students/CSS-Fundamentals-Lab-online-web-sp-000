@@ -3,3 +3,26 @@ body {
   height: 100%;
   margin: 0;
 }
+
+h1 {text-align: center}
+<<<<<<< HEAD
+<img src="images/intro-pic.jpg" alt="A beautiful living room." title="Welcome to Exceptional Realty Group" class="center">
+input[type="<a>"] {width: 10px;}
+img {size: 6px; class="center"}
+p {width: 800px; class="center"}
+<footer>
+        <p>
+          <a href="mailto:info@exceptionalrealty.com">info@exceptionalrealty.com</a><br>
+          +1 710 555 1234<br>
+          @fakeRealty
+        </p>
+</footer>
+div:last-child {background: #0000; class="text" width: 25%;}
+=======
+img {text-align: center}
+input[type="<a>"] {width: 10px;}
+img {size: 6px; text-align: center}
+#featured-property > p {width: 800px; text-align: center}
+/*#details {display: block}*/
+#details > div {float: left; background: #0000; text-align: center; width: 25%;}
+>>>>>>> 5727cc139d665d34be916e92f94be45cd77a7eaa
