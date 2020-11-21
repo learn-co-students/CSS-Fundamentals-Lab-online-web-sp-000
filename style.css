@@ -3,3 +3,8 @@ body {
   height: 100%;
   margin: 0;
 }
+
+header.h1 {
+  text-align: center;
+}
+
