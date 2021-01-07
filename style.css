@@ -3,3 +3,37 @@ body {
   height: 100%;
   margin: 0;
 }
+
+h1, nav {
+  text-align: center;
+}
+
+header a {
+  padding: 10px;
+  color: rgb(241, 136, 154);
+  background-color: rgb(128, 128, 128);
+}
+
+section {
+  text-align: center;
+}
+
+figcaption {
+  font-size: 15px;
+}
+
+section#featured-property p {
+  text-align: center;
+  width: 800px;
+  margin: auto;
+}
+
+.flex-container{
+  display: flex;
+}
+
+.flex-child {
+  flex: 1;
+  background-color: red;
+  width: 25%;
+}
