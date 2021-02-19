@@ -3,3 +3,31 @@ body {
   height: 100%;
   margin: 0;
 }
+h1, nav, figure {
+  text-align: center;
+}
+
+nav a {
+  padding-right: 10px;
+  padding-left: 10px;
+  background-color: peru;
+}
+
+figcaption {
+  text-align: center;
+  font-size: 15px;
+}
+
+section p {
+  max-width: 900px;
+  margin: auto;
+  text-align: center;
+}
+
+block div {
+  float: left;
+  background-color: orchid;
+  text-align: center;
+  width: 25%;
+}
+
