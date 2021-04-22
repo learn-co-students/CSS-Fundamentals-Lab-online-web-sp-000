@@ -3,3 +3,21 @@ body {
   height: 100%;
   margin: 0;
 }
+
+h1 {
+text-align: center;
+}
+
+nav {
+text-align: center;
+}
+
+nav a {
+text-align: center;
+background-color: lightblue;
+padding: 0px 10px;
+}
+
+figure {
+text-align: center;
+}
